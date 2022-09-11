@@ -1,5 +1,3 @@
-alpha_table = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-
 plaintext = input("plaintext:")
 key = input("key:")
 
